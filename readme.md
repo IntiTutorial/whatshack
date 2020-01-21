@@ -1,1 +1,2 @@
-CARA PENGINSTALLAN NYA SILAHKAN CEK TUTORIAL NYA https://youtu.be/Fv7IRddeLRs  
+1. How to use whatshack [`Watch it`](https://youtu.be/Fv7IRddeLRs) 
+2. Fork it...
