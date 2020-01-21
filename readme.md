@@ -1,3 +1,1 @@
-Gw ganteng
-
-Nih tool buat haik whatsapp 
+CARA PENGINSTALLAN NYA SILAHKAN CEK TUTORIAL NYA https://youtu.be/Fv7IRddeLRs  
