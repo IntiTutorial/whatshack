@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
 echo "
-<-- IndoSec -->
+<-- ./HEZAL -->
 ####################
-#   Whatsapp Code  # By ./C3W3KBerB4T4n9
-#     Exploiter    # ceweberbatang59@gmail.com
+#   Whatsapp Code  # By ./HEZAL
+#     Exploiter    # dryhezelnut@gmail.com
 ####################
 
-Copyright (c) 2018 ceweberbatang Ganteng";
+Copyright (c) 2019 HEZAL gans";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
