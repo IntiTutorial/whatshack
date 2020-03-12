@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
 echo "
-<-- IndoSec -->
+<-- ./HEZAL -->
 ####################
-# Whatsapp Exploit # By ./C3W3KBerB4T4n9
-#   Log Listener   # ceweberbatang59@gmail.com
+# Whatsapp Exploit # By ./HEZAL
+#   Log Listener   # dryhezelnut@gmail.com
 ####################
 
-Copyright (c) 2018 ceweberbatang ganz";
+Copyright (c) 2019 HEZAL ganz";
 echo "";
 read -p "Server   : http://" server
 read -p "Log File : " file
